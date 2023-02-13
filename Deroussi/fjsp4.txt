@@ -1,0 +1,13 @@
+fjsp4 #vehicles: 2 Cmax: 114.0 #iterations: 231844 time: 600.1
+iterations_stop Cmax: 116.0 #iterations: 11682 time: 19.11
+time_stop Cmax: 114.0 #iterations: 231844 time: 600.0
+M1  15  13  2 
+M2  9 
+M3  7  5  14 
+M4  11  16  18  3 
+M5  4  8  19 
+M6  10 
+M7  12  17  6 
+M8  1 
+V1  T11  T4  T1  T13  T5  T9  T19  T10 
+V2  T15  T7  T16  T12  T17  T8  T18  T2  T14  T6  T3 

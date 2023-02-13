@@ -1,0 +1,11 @@
+Mk_01 #vehicles: 2 Cmax: 187.0 #iterations: 75048 time: 600.7
+iterations_stop Cmax: 187.0 #iterations: 13030 time: 99.67
+time_stop Cmax: 187.0 #iterations: 75048 time: 600.0
+M1  35  45  29  9  16  47 
+M2  12  22  17  23  18  24  7  36  52  37  41  42  4  30  31  32  10  11  43  48  49 
+M3  1  2  19  3  20  8  25  5  21  6  38 
+M4  26  54  55  33 
+M5 
+M6  34  13  50  51  39  28  14  40  15  44  53  46  27 
+V1  T44  T34  T17  T28  T39  T7  T19  T45  T46  T41  T53  T16  T30  T5  T26  T54  T27  T38 
+V2  T12  T22  T13  T35  T50  T1  T29  T36  T52  T8  T4  T25  T9  T10  T47  T48  T33 

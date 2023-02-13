@@ -1,0 +1,13 @@
+mfjs09 #vehicles: 2 Cmax: 1133.0 #iterations: 195826 time: 600.0
+iterations_stop Cmax: 1133.0 #iterations: 18820 time: 58.88
+time_stop Cmax: 1133.0 #iterations: 0 time: 600.0
+M1  9  5  1 
+M2  13  17  41  6  33  19  2 
+M3  29  25  26  42  34 
+M4  37  21  15  22  3  24 
+M5  14  11  30  27  43  23  35  28 
+M6  38  39  16  44  36 
+M7  10  18  7  31  32  40 
+M8  12  20  8  4 
+V1  T13  T9  T21  T10  T41  T38  T6  T30  T33  T19  T12  T15  T7  T27  T20  T43  T23  T44  T36  T24 
+V2  T37  T17  T29  T14  T5  T11  T25  T18  T1  T42  T31  T16  T2  T34  T40  T8  T3  T35  T4 
